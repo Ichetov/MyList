@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MyList/static/css/main.e6c13ad2.css",
+    "main.js": "/MyList/static/js/main.15a8eb41.js",
+    "static/js/787.25eaef86.chunk.js": "/MyList/static/js/787.25eaef86.chunk.js",
+    "static/media/basc.webp": "/MyList/static/media/basc.238c8fee3302e01dd33d.webp",
+    "static/media/ironMan.webp": "/MyList/static/media/ironMan.06410c488e794f7509cd.webp",
+    "static/media/my.webp": "/MyList/static/media/my.870a25e51fbdd69a52f0.webp",
+    "static/media/photo.webp": "/MyList/static/media/photo.034f28762a70998dd7e5.webp",
+    "static/media/phone.webp": "/MyList/static/media/phone.1b48bfc5bef6be66088c.webp",
+    "static/media/gerls.webp": "/MyList/static/media/gerls.d2f91cb2f7e9d62b98ae.webp",
+    "static/media/time.webp": "/MyList/static/media/time.226341b08df5780070a8.webp",
+    "static/media/icons-sprite.svg": "/MyList/static/media/icons-sprite.34b9755f9b6af8116e83713afae2507e.svg",
+    "static/media/arrow1.svg": "/MyList/static/media/arrow1.1582b715e9ad2e85db79aa6655a8cd01.svg",
+    "index.html": "/MyList/index.html",
+    "static/media/arrow.svg": "/MyList/static/media/arrow.9964c0e7fa5a6a078be6591dcc083c34.svg",
+    "static/media/Polygon1.svg": "/MyList/static/media/Polygon1.b0e66fb762924b28eaf86b4080f2af0c.svg",
+    "static/media/Ellipse2.svg": "/MyList/static/media/Ellipse2.cd4d6fe95422b015013dd55d057484c1.svg",
+    "static/media/Ellipse1.svg": "/MyList/static/media/Ellipse1.4938817165e4a61820e125c784ffa90e.svg",
+    "main.e6c13ad2.css.map": "/MyList/static/css/main.e6c13ad2.css.map",
+    "main.15a8eb41.js.map": "/MyList/static/js/main.15a8eb41.js.map",
+    "787.25eaef86.chunk.js.map": "/MyList/static/js/787.25eaef86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.15a8eb41.js"
+  ]
+}
